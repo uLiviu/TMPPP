@@ -1,0 +1,128 @@
+﻿@page
+@using Microsoft.AspNetCore.Identity
+@using Store.Models
+@model Store.Pages.Admin.Reviews.ReviewsModel
+
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+<h2>Reviews</h2>
+
+<div class="d-flex justify-content-start align-items-center">
+    <label for="sortStrategy" class="mr-2">Sort by:</label>
+    <select id="sortStrategy" onchange="location = this.value;" class="form-control">
+        <option value="">Select...</option>
+        <option value="?sortStrategy=nameAscending">Product Name (Ascending)</option>
+        <option value="?sortStrategy=nameDescending">Product Name (Descending)</option>
+        <option value="?sortStrategy=usernameAscending">Username (Ascending)</option>
+        <option value="?sortStrategy=usernameDescending">Username (Descending)</option>
+        <option value="?sortStrategy=ratingAscending">Rating (Ascending)</option>
+        <option value="?sortStrategy=ratingDescending">Rating (Descending)</option>
+        <option value="?sortStrategy=dateAscending">Creation Date (Ascending)</option>
+        <option value="?sortStrategy=dateDescending">Creation Date (Descending)</option>
+    </select>
+</div>
+
+@if (SignInManager.IsSignedIn(User))
+{
+    if (User.IsInRole("admin"))
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Produs</th>
+                    <th>Utilizator</th>
+                    <th>Rating</th>
+                    <th>Comentariu</th>
+                    <th>Data</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var review in Model.Reviews)
+                {
+                    <tr>
+                        <td>@review.Product.Name</td>
+                        <td>@review.UserName</td>
+                        <td>@review.Rating</td>
+                        <td>@review.Comment</td>
+                        <td>@review.CreatedAt.ToString("d")</td>
+                        <td style="white-space:nowrap">
+                            <a class="btn btn-outline-dark flex-shrink-0" href="/Admin/Reviews/Edit?id=@review.Id">Edit</a>
+                            <a class="btn btn-outline-danger flex-shrink-0" href="/Admin/Reviews/Delete?id=@review.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else if (User.IsInRole("buyer"))
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Produs</th>
+                    <th>Utilizator</th>
+                    <th>Rating</th>
+                    <th>Comentariu</th>
+                    <th>Data</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var review in Model.Reviews)
+                {
+                    <tr>
+                        <td>@review.Product.Name</td>
+                        <td>@review.UserName</td>
+                        <td>@review.Rating</td>
+                        <td>@review.Comment</td>
+                        <td>@review.CreatedAt.ToString("d")</td>
+                        <td style="white-space:nowrap">
+                            <a class="btn btn-outline-dark flex-shrink-0" href="/Admin/Reviews/Edit?id=@review.Id">Edit</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Username</th>
+                <th>Rating</th>
+                <th>Comment</th>
+                <th>Data</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var review in Model.Reviews)
+            {
+                <tr>
+                    <td>@review.Product.Name</td>
+                    <td>@review.UserName</td>
+                    <td>@review.Rating</td>
+                    <td>@review.Comment</td>
+                    <td>@review.CreatedAt.ToString("d")</td>
+                    <td style="white-space:nowrap">
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@{
+    var message = TempData["Message"] as string;
+    if (!string.IsNullOrEmpty(message))
+    {
+        <div class="alert alert-warning">
+            @message
+        </div>
+    }
+}

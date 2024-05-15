@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5249EB1B-F219-4F17-B0AE-6395494F5079}|Store.csproj|d:\\universitatea\\semestrul vi\\tehnici \u0219i mecanisme de proiectare a produselor program\\proiect\\store\\pages\\admin\\products\\prototype\\productprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5249EB1B-F219-4F17-B0AE-6395494F5079}|Store.csproj|solutionrelative:pages\\admin\\products\\prototype\\productprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5249EB1B-F219-4F17-B0AE-6395494F5079}|Store.csproj|d:\\universitatea\\semestrul vi\\tehnici \u0219i mecanisme de proiectare a produselor program\\proiect\\store\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5249EB1B-F219-4F17-B0AE-6395494F5079}|Store.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5249EB1B-F219-4F17-B0AE-6395494F5079}|Store.csproj|d:\\universitatea\\semestrul vi\\tehnici \u0219i mecanisme de proiectare a produselor program\\proiect\\store\\pages\\admin\\reviews\\addreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5249EB1B-F219-4F17-B0AE-6395494F5079}|Store.csproj|solutionrelative:pages\\admin\\reviews\\addreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5249EB1B-F219-4F17-B0AE-6395494F5079}|Store.csproj|d:\\universitatea\\semestrul vi\\tehnici \u0219i mecanisme de proiectare a produselor program\\proiect\\store\\pages\\admin\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5249EB1B-F219-4F17-B0AE-6395494F5079}|Store.csproj|solutionrelative:pages\\admin\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:20:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductPrototype.cs",
+              "DocumentMoniker": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\Pages\\Admin\\Products\\Prototype\\ProductPrototype.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Prototype\\ProductPrototype.cs",
+              "ToolTip": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\Pages\\Admin\\Products\\Prototype\\ProductPrototype.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Prototype\\ProductPrototype.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:20:08.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\Pages\\Admin\\Reviews\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Reviews\\Delete.cshtml",
+              "ToolTip": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\Pages\\Admin\\Reviews\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Reviews\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:34:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddReview.cshtml",
+              "DocumentMoniker": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\Pages\\Admin\\Reviews\\AddReview.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Reviews\\AddReview.cshtml",
+              "ToolTip": "D:\\Universitatea\\Semestrul VI\\Tehnici \u0219i Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\Pages\\Admin\\Reviews\\AddReview.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Reviews\\AddReview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:34:55.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

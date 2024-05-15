@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Store.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\css\\styles2.css",
+      "PackagePath": "staticwebassets\\css\\styles2.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\favicon2.ico",
+      "PackagePath": "staticwebassets\\favicon2.ico"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\favicon3.ico",
+      "PackagePath": "staticwebassets\\favicon3.ico"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\img\\bg-signup.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-signup.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\img\\demo-image-01.jpg",
+      "PackagePath": "staticwebassets\\img\\demo-image-01.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\img\\demo-image-02.jpg",
+      "PackagePath": "staticwebassets\\img\\demo-image-02.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\img\\ipad.png",
+      "PackagePath": "staticwebassets\\img\\ipad.png"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\js\\scripts2.js",
+      "PackagePath": "staticwebassets\\js\\scripts2.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\04778bba-dff4-4b6d-83e3-dd7642a6c89b_mere.jpg",
+      "PackagePath": "staticwebassets\\products\\04778bba-dff4-4b6d-83e3-dd7642a6c89b_mere.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\08beb46d-b110-4e15-889f-e89434c70c02_8-bit City_1920x1080.jpg",
+      "PackagePath": "staticwebassets\\products\\08beb46d-b110-4e15-889f-e89434c70c02_8-bit City_1920x1080.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\2dc0d908-63d8-43f3-969f-de5de3f047fc_laptop-with-headphones.jpg",
+      "PackagePath": "staticwebassets\\products\\2dc0d908-63d8-43f3-969f-de5de3f047fc_laptop-with-headphones.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\49ab439b-3ff0-47a9-af69-3d4d3274c9f5_SmartWatch.jpg",
+      "PackagePath": "staticwebassets\\products\\49ab439b-3ff0-47a9-af69-3d4d3274c9f5_SmartWatch.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\4c6e3397-f9ef-430f-9552-9868b6a59fcd_Headphones.jpg",
+      "PackagePath": "staticwebassets\\products\\4c6e3397-f9ef-430f-9552-9868b6a59fcd_Headphones.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\503bec1d-1c0a-414b-906c-64ecaef25a3e_PocketCalculator.jpg",
+      "PackagePath": "staticwebassets\\products\\503bec1d-1c0a-414b-906c-64ecaef25a3e_PocketCalculator.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\618c6a1a-ab89-45ff-9982-739d1d67eb10_beginner.jpg",
+      "PackagePath": "staticwebassets\\products\\618c6a1a-ab89-45ff-9982-739d1d67eb10_beginner.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\880e9513-4cc2-4f13-bfb0-af664794982c_photo_1_2024-04-24_15-13-48.jpg",
+      "PackagePath": "staticwebassets\\products\\880e9513-4cc2-4f13-bfb0-af664794982c_photo_1_2024-04-24_15-13-48.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\892d0853-4f48-47c2-acbd-b389aa5556ea_Smartphone.jpg",
+      "PackagePath": "staticwebassets\\products\\892d0853-4f48-47c2-acbd-b389aa5556ea_Smartphone.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\8a524b1a-b9db-4fe8-ad74-099d6f3ba1be_PortableRadio.jpg",
+      "PackagePath": "staticwebassets\\products\\8a524b1a-b9db-4fe8-ad74-099d6f3ba1be_PortableRadio.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\957457a5-286e-4d02-b492-ca19bc1ddaae_Keyboard.jpg",
+      "PackagePath": "staticwebassets\\products\\957457a5-286e-4d02-b492-ca19bc1ddaae_Keyboard.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\DigitalClock.jpg",
+      "PackagePath": "staticwebassets\\products\\DigitalClock.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\PocketCalculator.jpg",
+      "PackagePath": "staticwebassets\\products\\PocketCalculator.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\PortableRadio.jpg",
+      "PackagePath": "staticwebassets\\products\\PortableRadio.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\af7e0146-79ee-45b4-a84b-5774abac676d_c2a51757-ca94-48d3-a61a-e7988a8b65a2.webp",
+      "PackagePath": "staticwebassets\\products\\af7e0146-79ee-45b4-a84b-5774abac676d_c2a51757-ca94-48d3-a61a-e7988a8b65a2.webp"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\bd675c8c-3e92-40ad-980f-f151986abc1a_intermediate.jpg",
+      "PackagePath": "staticwebassets\\products\\bd675c8c-3e92-40ad-980f-f151986abc1a_intermediate.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\c3ca1ffd-613b-4585-8074-fae7097b1c6a_intermediate.jpg",
+      "PackagePath": "staticwebassets\\products\\c3ca1ffd-613b-4585-8074-fae7097b1c6a_intermediate.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\c3cb4004-862c-42cc-8b70-8b881690cf3d_5f5df0535aee58c93a4ae892350cdeef.jpg",
+      "PackagePath": "staticwebassets\\products\\c3cb4004-862c-42cc-8b70-8b881690cf3d_5f5df0535aee58c93a4ae892350cdeef.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\ce45bfec-08de-4ccc-991e-5f2e94afb295_Screenshot 2024-04-06 230007.png",
+      "PackagePath": "staticwebassets\\products\\ce45bfec-08de-4ccc-991e-5f2e94afb295_Screenshot 2024-04-06 230007.png"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\d39f8959-5dd5-4636-b0cb-9b8363774481_Screenshot 2024-04-07 181843.png",
+      "PackagePath": "staticwebassets\\products\\d39f8959-5dd5-4636-b0cb-9b8363774481_Screenshot 2024-04-07 181843.png"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\ed3d657d-ac7d-4826-a616-a41e68012af9_Tableta.jpg",
+      "PackagePath": "staticwebassets\\products\\ed3d657d-ac7d-4826-a616-a41e68012af9_Tableta.jpg"
+    },
+    {
+      "Id": "D:\\Universitatea\\Semestrul VI\\Tehnici și Mecanisme de Proiectare a Produselor Program\\Proiect\\Store\\wwwroot\\products\\f3cbfaf3-a233-4b7c-bc39-3beed26a3edb_mere.jpg",
+      "PackagePath": "staticwebassets\\products\\f3cbfaf3-a233-4b7c-bc39-3beed26a3edb_mere.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Store.props",
+      "PackagePath": "build\\Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Store.props",
+      "PackagePath": "buildMultiTargeting\\Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Store.props",
+      "PackagePath": "buildTransitive\\Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,29 @@
+﻿@page
+@model Store.Pages.Admin.Reviews.AddReviewModel
+
+<h2>Adaugă o recenzie</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="ProductId">Produs</label>
+        <select id="ProductId" name="ProductId" class="form-control">
+            @foreach (var product in Model.Products)
+            {
+                <option value="@product.Id">@product.Name</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="UserName">Nume utilizator</label>
+        <input id="UserName" name="UserName" class="form-control" value="@User.Identity.Name" readonly />
+    </div>
+    <div class="form-group">
+        <label for="Rating">Rating</label>
+        <input id="Rating" name="Rating" type="number" min="1" max="5" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Comment">Comentariu</label>
+        <textarea id="Comment" name="Comment" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-outline-primary flex-shrink-0">Adaugă Recenzie</button>
+</form>

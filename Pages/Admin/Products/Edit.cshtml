@@ -1,0 +1,68 @@
+﻿@page
+@model Store.Pages.Admin.Products.EditModel
+
+<h2 class="text-center mb-5">Edit Product</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Product.Id" />
+    <div class="form-group">
+        <label asp-for="Product.ProductType"></label>
+        <select class="form-control" asp-for="Product.ProductType">
+            <option value="DigitalClock">DigitalClock</option>
+            <option value="PortableRadio">PortableRadio</option>
+            <option value="PocketCalculator">PocketCalculator</option>
+            <option value="Smartphone">Smartphone</option>
+            <option value="Smartwatch">Smartwatch</option>
+            <option value="Tablet">Tablet</option>
+            <option value="Headphones">Headphones</option>
+            <option value="Keyboard">Keyboard</option>
+            <option value="Mouse">Mouse</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.Name"></label>
+        <input class="form-control" asp-for="Product.Name" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.Brand"></label>
+        <input class="form-control" asp-for="Product.Brand" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.Category"></label>
+        <input class="form-control" asp-for="Product.Category" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.Price"></label>
+        <input class="form-control" asp-for="Product.Price" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.StockCount"></label>
+        <input class="form-control" asp-for="Product.StockCount" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.Warranty"></label>
+        <input class="form-control" asp-for="Product.Warranty" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.Description"></label>
+        <textarea class="form-control" asp-for="Product.Description"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Current Image</label>
+        <img src="~/products/@Model.Product.ImageFileName" alt="Product Image" style="width: 100px; height: auto;" />
+    </div>
+    <div class="form-group">
+        <label>Upload New Image</label>
+        <input type="file" asp-for="ImageFile" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.CreatedAt"></label>
+        <input class="form-control" asp-for="Product.CreatedAt" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.LastUpdated"></label>
+        <input class="form-control" asp-for="Product.LastUpdated" readonly />
+    </div>
+    <button type="submit" class="btn btn-outline-primary flex-shrink-0">Save</button>
+    <a href="./Index">Back to List</a>
+</form>

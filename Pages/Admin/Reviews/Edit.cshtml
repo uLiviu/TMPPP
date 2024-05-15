@@ -1,0 +1,21 @@
+﻿@page
+@model Store.Pages.Admin.Reviews.EditModel
+
+<h2>Editare recenzie</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Review.Id" />
+    <div class="form-group">
+        <label asp-for="Review.UserName">Nume utilizator</label>
+        <input asp-for="Review.UserName" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Review.Rating">Rating</label>
+        <input asp-for="Review.Rating" type="number" min="1" max="5" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Review.Comment">Comentariu</label>
+        <textarea asp-for="Review.Comment" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-outline-primary flex-shrink-0">Salvează modificările</button>
+</form>
